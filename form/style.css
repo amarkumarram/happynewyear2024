@@ -17,12 +17,16 @@
     gap: 20px;
 }
 
-.nameInput {
+.nameInput, .linkText {
     width: 300px;
     height: 40px;
     padding: 5px 20px;
     border-radius: 20px;
     font-size: 18px;
+}
+
+.linkText {
+    width: auto;
 }
 
 .submitName {
